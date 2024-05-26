@@ -1,0 +1,24 @@
+{
+  "name": "serialstring",
+  "version": "1.0.1",
+  "description": "Serial String validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/HuaLu0305/serialstring"
+  },
+  "keywords": [
+    "serial",
+    "string",
+    "validator"
+  ],
+  "author": "Hualu",
+  "license": "ISC",
+  "dependencies": {
+    "regex-parser": "^2.3.0",
+    "serialport": "^12.0.0"
+  }
+}
